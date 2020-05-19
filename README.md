@@ -6,4 +6,4 @@
 
 <h4>Jornada Bootcamp</h4>
 
-![](Jornada Bootcamp.png)
+![](Jornada_Bootcamp.png)
