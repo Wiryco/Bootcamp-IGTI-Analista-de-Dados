@@ -1,0 +1,138 @@
+2020-01-11T00:00:00Z	Casos: 41 em China.Obitos: 1 em China.
+2020-01-12T00:00:00Z	Casos: 0 em .Obitos: 0 em .
+2020-01-13T00:00:00Z	Casos: 1 em Thailand.Obitos: 0 em .
+2020-01-14T00:00:00Z	Casos: 1 em Japan.Obitos: 0 em .
+2020-01-15T00:00:00Z	Casos: 0 em .Obitos: 0 em .
+2020-01-16T00:00:00Z	Casos: 0 em .Obitos: 0 em .
+2020-01-17T00:00:00Z	Casos: 4 em China.Obitos: 1 em China.
+2020-01-18T00:00:00Z	Casos: 17 em China.Obitos: 0 em .
+2020-01-19T00:00:00Z	Casos: 59 em China.Obitos: 1 em China.
+2020-01-20T00:00:00Z	Casos: 77 em China.Obitos: 1 em China.
+2020-01-21T00:00:00Z	Casos: 93 em China.Obitos: 2 em China.
+2020-01-22T00:00:00Z	Casos: 152 em China.Obitos: 3 em China.
+2020-01-23T00:00:00Z	Casos: 131 em China.Obitos: 8 em China.
+2020-01-24T00:00:00Z	Casos: 261 em China.Obitos: 8 em China.
+2020-01-25T00:00:00Z	Casos: 462 em China.Obitos: 16 em China.
+2020-01-26T00:00:00Z	Casos: 688 em China.Obitos: 15 em China.
+2020-01-27T00:00:00Z	Casos: 776 em China.Obitos: 24 em China.
+2020-01-28T00:00:00Z	Casos: 1772 em China.Obitos: 26 em China.
+2020-01-29T00:00:00Z	Casos: 1462 em China.Obitos: 26 em China.
+2020-01-30T00:00:00Z	Casos: 1741 em China.Obitos: 38 em China.
+2020-01-31T00:00:00Z	Casos: 1984 em China.Obitos: 43 em China.
+2020-02-01T00:00:00Z	Casos: 2101 em China.Obitos: 46 em China.
+2020-02-02T00:00:00Z	Casos: 2590 em China.Obitos: 45 em China.
+2020-02-03T00:00:00Z	Casos: 2827 em China.Obitos: 57 em China.
+2020-02-04T00:00:00Z	Casos: 3233 em China.Obitos: 64 em China.
+2020-02-05T00:00:00Z	Casos: 3892 em China.Obitos: 66 em China.
+2020-02-06T00:00:00Z	Casos: 3697 em China.Obitos: 73 em China.
+2020-02-07T00:00:00Z	Casos: 3151 em China.Obitos: 73 em China.
+2020-02-08T00:00:00Z	Casos: 3387 em China.Obitos: 86 em China.
+2020-02-09T00:00:00Z	Casos: 2653 em China.Obitos: 89 em China.
+2020-02-10T00:00:00Z	Casos: 2985 em China.Obitos: 97 em China.
+2020-02-11T00:00:00Z	Casos: 2472 em China.Obitos: 108 em China.
+2020-02-12T00:00:00Z	Casos: 2022 em China.Obitos: 97 em China.
+2020-02-13T00:00:00Z	Casos: 15152 em China.Obitos: 254 em China.
+2020-02-14T00:00:00Z	Casos: 4050 em China.Obitos: 13 em China.
+2020-02-15T00:00:00Z	Casos: 2644 em China.Obitos: 143 em China.
+2020-02-16T00:00:00Z	Casos: 2008 em China.Obitos: 142 em China.
+2020-02-17T00:00:00Z	Casos: 2051 em China.Obitos: 106 em China.
+2020-02-18T00:00:00Z	Casos: 1893 em China.Obitos: 98 em China.
+2020-02-19T00:00:00Z	Casos: 1751 em China.Obitos: 136 em China.
+2020-02-20T00:00:00Z	Casos: 396 em China.Obitos: 115 em China.
+2020-02-21T00:00:00Z	Casos: 892 em China.Obitos: 118 em China.
+2020-02-22T00:00:00Z	Casos: 825 em China.Obitos: 109 em China.
+2020-02-23T00:00:00Z	Casos: 649 em China.Obitos: 97 em China.
+2020-02-24T00:00:00Z	Casos: 231 em Republic of Korea.Obitos: 150 em China.
+2020-02-25T00:00:00Z	Casos: 517 em China.Obitos: 71 em China.
+2020-02-26T00:00:00Z	Casos: 411 em China.Obitos: 52 em China.
+2020-02-27T00:00:00Z	Casos: 505 em Republic of Korea.Obitos: 29 em China.
+2020-02-28T00:00:00Z	Casos: 571 em Republic of Korea.Obitos: 44 em China.
+2020-02-29T00:00:00Z	Casos: 813 em Republic of Korea.Obitos: 47 em China.
+2020-03-01T00:00:00Z	Casos: 586 em Republic of Korea.Obitos: 35 em China.
+2020-03-02T00:00:00Z	Casos: 908 em Iran (Islamic Republic of).Obitos: 42 em China.
+2020-03-03T00:00:00Z	Casos: 835 em Iran (Islamic Republic of).Obitos: 31 em China.
+2020-03-04T00:00:00Z	Casos: 587 em Italy.Obitos: 38 em China.
+2020-03-05T00:00:00Z	Casos: 769 em Italy.Obitos: 41 em Italy.
+2020-03-06T00:00:00Z	Casos: 1234 em Iran (Islamic Republic of).Obitos: 49 em Italy.
+2020-03-07T00:00:00Z	Casos: 1247 em Italy.Obitos: 37 em Italy.
+2020-03-08T00:00:00Z	Casos: 1492 em Italy.Obitos: 132 em Italy.
+2020-03-09T00:00:00Z	Casos: 1797 em Italy.Obitos: 97 em Italy.
+2020-03-10T00:00:00Z	Casos: 977 em Italy.Obitos: 168 em Italy.
+2020-03-11T00:00:00Z	Casos: 2313 em Italy.Obitos: 196 em Italy.
+2020-03-12T00:00:00Z	Casos: 2651 em Italy.Obitos: 189 em Italy.
+2020-03-13T00:00:00Z	Casos: 2547 em Italy.Obitos: 252 em Italy.
+2020-03-14T00:00:00Z	Casos: 3497 em Italy.Obitos: 173 em Italy.
+2020-03-15T00:00:00Z	Casos: 3590 em Italy.Obitos: 368 em Italy.
+2020-03-16T00:00:00Z	Casos: 3233 em Italy.Obitos: 349 em Italy.
+2020-03-17T00:00:00Z	Casos: 3526 em Italy.Obitos: 347 em Italy.
+2020-03-18T00:00:00Z	Casos: 4207 em Italy.Obitos: 473 em Italy.
+2020-03-19T00:00:00Z	Casos: 5322 em Italy.Obitos: 429 em Italy.
+2020-03-20T00:00:00Z	Casos: 7324 em Germany.Obitos: 625 em Italy.
+2020-03-21T00:00:00Z	Casos: 6557 em Italy.Obitos: 795 em Italy.
+2020-03-22T00:00:00Z	Casos: 1028 em Iran (Islamic Republic of).Obitos: 129 em Iran (Islamic Republic of).
+2020-03-23T00:00:00Z	Casos: 16354 em United States of America.Obitos: 649 em Italy.
+2020-03-24T00:00:00Z	Casos: 20341 em United States of America.Obitos: 601 em Italy.
+2020-03-25T00:00:00Z	Casos: 6584 em Spain.Obitos: 743 em Italy.
+2020-03-26T00:00:00Z	Casos: 16420 em United States of America.Obitos: 738 em Spain.
+2020-03-27T00:00:00Z	Casos: 8578 em Spain.Obitos: 660 em Italy.
+2020-03-28T00:00:00Z	Casos: 16894 em United States of America.Obitos: 971 em Italy.
+2020-03-29T00:00:00Z	Casos: 18093 em United States of America.Obitos: 887 em Italy.
+2020-03-30T00:00:00Z	Casos: 19332 em United States of America.Obitos: 838 em Spain.
+2020-03-31T00:00:00Z	Casos: 17987 em United States of America.Obitos: 812 em Spain.
+2020-04-01T00:00:00Z	Casos: 22559 em United States of America.Obitos: 849 em Spain.
+2020-04-02T00:00:00Z	Casos: 24103 em United States of America.Obitos: 996 em United States of America.
+2020-04-03T00:00:00Z	Casos: 26298 em United States of America.Obitos: 950 em Spain.
+2020-04-04T00:00:00Z	Casos: 28103 em United States of America.Obitos: 2003 em France.
+2020-04-05T00:00:00Z	Casos: 32105 em United States of America.Obitos: 1166 em United States of America.
+2020-04-06T00:00:00Z	Casos: 33510 em United States of America.Obitos: 1338 em United States of America.
+2020-04-07T00:00:00Z	Casos: 26493 em United States of America.Obitos: 1201 em United States of America.
+2020-04-08T00:00:00Z	Casos: 29510 em United States of America.Obitos: 1417 em France.
+2020-04-09T00:00:00Z	Casos: 31709 em United States of America.Obitos: 1895 em United States of America.
+2020-04-10T00:00:00Z	Casos: 30859 em United States of America.Obitos: 1925 em United States of America.
+2020-04-11T00:00:00Z	Casos: 35386 em United States of America.Obitos: 1931 em United States of America.
+2020-04-12T00:00:00Z	Casos: 31606 em United States of America.Obitos: 1920 em United States of America.
+2020-04-13T00:00:00Z	Casos: 31633 em United States of America.Obitos: 1928 em United States of America.
+2020-04-14T00:00:00Z	Casos: 29308 em United States of America.Obitos: 1528 em United States of America.
+2020-04-15T00:00:00Z	Casos: 24446 em United States of America.Obitos: 1504 em United States of America.
+2020-04-16T00:00:00Z	Casos: 25802 em United States of America.Obitos: 2395 em United States of America.
+2020-04-17T00:00:00Z	Casos: 28711 em United States of America.Obitos: 2350 em United States of America.
+2020-04-18T00:00:00Z	Casos: 32549 em United States of America.Obitos: 2163 em United States of America.
+2020-04-19T00:00:00Z	Casos: 30023 em United States of America.Obitos: 2043 em United States of America.
+2020-04-20T00:00:00Z	Casos: 28252 em United States of America.Obitos: 1776 em United States of America.
+2020-04-21T00:00:00Z	Casos: 27668 em United States of America.Obitos: 1681 em United States of America.
+2020-04-22T00:00:00Z	Casos: 25634 em United States of America.Obitos: 1718 em United States of America.
+2020-04-23T00:00:00Z	Casos: 24019 em United States of America.Obitos: 2471 em United States of America.
+2020-04-24T00:00:00Z	Casos: 29127 em United States of America.Obitos: 2238 em United States of America.
+2020-04-25T00:00:00Z	Casos: 30719 em United States of America.Obitos: 1742 em United States of America.
+2020-04-26T00:00:00Z	Casos: 38509 em United States of America.Obitos: 2151 em United States of America.
+2020-04-27T00:00:00Z	Casos: 32417 em United States of America.Obitos: 1776 em United States of America.
+2020-04-28T00:00:00Z	Casos: 29218 em United States of America.Obitos: 1190 em United States of America.
+2020-04-29T00:00:00Z	Casos: 22541 em United States of America.Obitos: 1322 em United States of America.
+2020-04-30T00:00:00Z	Casos: 20517 em United States of America.Obitos: 4419 em The United Kingdom.
+2020-05-01T00:00:00Z	Casos: 31379 em United States of America.Obitos: 2909 em United States of America.
+2020-05-02T00:00:00Z	Casos: 31774 em United States of America.Obitos: 2069 em United States of America.
+2020-05-03T00:00:00Z	Casos: 26753 em United States of America.Obitos: 5000 em United States of America.
+2020-05-04T00:00:00Z	Casos: 31839 em United States of America.Obitos: 421 em Brazil.
+2020-05-05T00:00:00Z	Casos: 29266 em United States of America.Obitos: 1196 em United States of America.
+2020-05-06T00:00:00Z	Casos: 16200 em United States of America.Obitos: 792 em United States of America.
+2020-05-07T00:00:00Z	Casos: 22267 em United States of America.Obitos: 2499 em United States of America.
+2020-05-08T00:00:00Z	Casos: 22119 em United States of America.Obitos: 1949 em United States of America.
+2020-05-09T00:00:00Z	Casos: 30303 em United States of America.Obitos: 2743 em United States of America.
+2020-05-10T00:00:00Z	Casos: 11012 em Russian Federation.Obitos: 5475 em United States of America.
+2020-05-11T00:00:00Z	Casos: 25870 em United States of America.Obitos: 1552 em United States of America.
+2020-05-12T00:00:00Z	Casos: 26642 em United States of America.Obitos: 1736 em United States of America.
+2020-05-13T00:00:00Z	Casos: 23767 em United States of America.Obitos: 982 em United States of America.
+2020-05-14T00:00:00Z	Casos: 18044 em United States of America.Obitos: 1061 em United States of America.
+2020-05-15T00:00:00Z	Casos: 21424 em United States of America.Obitos: 1424 em United States of America.
+2020-05-16T00:00:00Z	Casos: 20840 em United States of America.Obitos: 1700 em United States of America.
+2020-05-17T00:00:00Z	Casos: 27090 em United States of America.Obitos: 2041 em United States of America.
+2020-05-18T00:00:00Z	Casos: 22813 em United States of America.Obitos: 1320 em United States of America.
+2020-05-19T00:00:00Z	Casos: 31967 em United States of America.Obitos: 1394 em United States of America.
+2020-05-20T00:00:00Z	Casos: 13227 em United States of America.Obitos: 697 em United States of America.
+2020-05-21T00:00:00Z	Casos: 24417 em United States of America.Obitos: 1179 em Brazil.
+2020-05-22T00:00:00Z	Casos: 23310 em United States of America.Obitos: 1324 em United States of America.
+2020-05-23T00:00:00Z	Casos: 22787 em United States of America.Obitos: 1396 em United States of America.
+2020-05-24T00:00:00Z	Casos: 20803 em Brazil.Obitos: 1088 em United States of America.
+2020-05-25T00:00:00Z	Casos: 24151 em United States of America.Obitos: 1852 em United States of America.
+2020-05-26T00:00:00Z	Casos: 26158 em United States of America.Obitos: 1046 em United States of America.
+2020-05-27T00:00:00Z	Casos: 15253 em United States of America.Obitos: 2201 em Spain.
