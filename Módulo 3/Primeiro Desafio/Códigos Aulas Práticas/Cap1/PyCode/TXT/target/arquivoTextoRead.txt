@@ -1,0 +1,12 @@
+﻿Exemplo de coleta de dados em arquivos de texto.
+
+Escritor: Machado de Assis
+Nome completo:	Joaquim Maria Machado de Assis
+Nacionalidade: Brasileira
+Natural de: Rio de Janeiro
+Nascimento:	21 de junho de 1839
+Morte: 29 de setembro de 1908 (69 anos)
+Cônjuge: Carolina Augusta Xavier de Novais (1869–1904)
+Ocupação: Escritor, jornalista, contista, cronista, dramaturgo e poeta
+Movimento literário: Romantismo, Realismo
+Fonte: https://pt.wikipedia.org/wiki/Machado_de_Assis

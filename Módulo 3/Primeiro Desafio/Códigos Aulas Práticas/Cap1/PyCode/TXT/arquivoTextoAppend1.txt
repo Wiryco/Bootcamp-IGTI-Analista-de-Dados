@@ -1,0 +1,2 @@
+Coleta de dados em arquivos de texto.
+Olá pessoal, este arquivo é para o exemplo de append files (Alteração).
